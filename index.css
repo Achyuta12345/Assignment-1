@@ -1,0 +1,19 @@
+#parent{
+    height: 400px;
+    width:400px;
+    /* display: inline; */
+    background-color: blueviolet;
+    /* position: relative; */
+    
+    /* margin: 10px; */
+}
+
+.child{
+    height: 200px;
+    width: 200px;
+  background-color: brown;
+  border: 1px solid black;
+  left: 20px;
+  position: relative;
+}
+
